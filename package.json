@@ -1,0 +1,19 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "Download and resize images",
+  "main": "resizeImages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "image",
+    "resize"
+  ],
+  "author": "Stefan Musarra",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
